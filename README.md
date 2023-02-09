@@ -4,9 +4,9 @@
 * mongo.yaml
 * webapp.yaml
 
-# How To Run:
+# How To Run
 
-**  minikube service webapp-service**
+**minikube service webapp-service**
   
 # Links
 * mongodb image on Docker Hub: https://hub.docker.com/_/mongo
