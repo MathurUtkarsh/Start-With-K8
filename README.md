@@ -9,7 +9,7 @@
 **minikube service webapp-service**
   
 # References  
-## Links
+# Links
 
 * mongodb image on Docker Hub: https://hub.docker.com/_/mongo
 * webapp image on Docker Hub: https://hub.docker.com/repository/docker/nanajanashia/k8s-demo-app
